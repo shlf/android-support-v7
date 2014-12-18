@@ -58,7 +58,4 @@
     <!-- Width of the icon in a dropdown list -->
     <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
 
-    <!-- GridLayout -->
-    <!-- The default gap between components in a layout. -->
-    <dimen name="default_gap">16dip</dimen>
 </resources>
